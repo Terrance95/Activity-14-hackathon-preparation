@@ -7,6 +7,7 @@
 1. T S Harshavardhan Nayaka – R25EJ159 – Frontend
 2. Vighnesh P Kanhirakandi – R25EJ174 – Backend
 3. Terrance Paul S – R25EJ162 – All-rounder
+4. Shashank G Naik - 26017900366 - UI/UX
 
 ## Selected Hackathon
 Innohacks 4.0
