@@ -1,18 +1,25 @@
-# Activity 14 – Hackathon Preparation
+# Digital Image Tampering Detection / Image Forensics
 
-## TeamMatch – Student Team Formation Platform
+This project is a web-based forensic tool for detecting digital image tampering. It analyzes uploaded images using various techniques to identify potential manipulation.
 
-### Team Members
+## Phase 1 Implementation
 
-1. T S Harshavardhan Nayaka – R25EJ159 – Frontend
-2. Vighnesh P Kanhirakandi – R25EJ174 – Backend
-3. Terrance Paul S – R25EJ162 – All-rounder
-4. Shashank G Naik - 26017900366 - UI/UX
+Currently deployed Phase 1 features include:
+- **Image Validation**: Proper format and corruption checking.
+- **Error Level Analysis (ELA)**: Multi-quality ELA (90, 95, 98) generation.
+- **Feature Extraction**: Basic statistical data from image pixels.
+- **Metadata Analysis**: EXIF extraction.
+- **Streamlit App**: Dark-themed responsive interface.
 
-## Selected Hackathon
-Innohacks 4.0
+*Note: Machine learning classification and explainability features are planned for Phase 2.*
 
-## Selected Problem
-TeamMatch – Student Team Formation Platform
+## Setup Instructions
 
-This repository contains the preparation work for Activity 14.
+1. Install requirements:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Run the application:
+   ```bash
+   streamlit run app/app.py
+   ```

@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+models/*.pkl
+dataset/original/*
+dataset/tampered/*
+dataset/processed/*
+!dataset/original/.gitkeep
+!dataset/tampered/.gitkeep
+!dataset/processed/.gitkeep
+results/ela/*
+results/features/*
+results/evaluation/*
+results/localization/*
+.streamlit/secrets.toml
