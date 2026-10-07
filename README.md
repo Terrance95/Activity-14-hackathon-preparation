@@ -91,7 +91,6 @@ This preparation focuses on understanding the problem, planning the solution, an
 | 1       | T S HARSHAVARDHAN NAYAKA  | R25EJ159    | Project Development & Integration |
 | 2       | Vighnesh P K KANHIRAKANDI | R25EJ174    | Project Development & Testing     |
 | 3       | Terrance Paul S           | R25EJ162    | Project Development & Research    |
-| 4       | SHASHANK G NAIK           | 26017900366 | UI, Documentation & Presentation  |
 
 ### Team Approach
 
