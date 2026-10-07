@@ -249,7 +249,6 @@ At the end of the hackathon preparation and subsequent build phase, the planned 
 | T S HARSHAVARDHAN NAYAKA  | Project development and integration |
 | Vighnesh P K KANHIRAKANDI | Project development and testing     |
 | Terrance Paul S           | Project development and research    |
-| SHASHANK G NAIK           | UI, documentation and presentation  |
 
 The team will follow a collaborative workflow, allowing members to assist in different areas whenever required during development and integration.
 
